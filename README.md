@@ -4,18 +4,18 @@ Este pequeño proyecto nos entrega de forma aleatoria una frase de Diego Armando
 
 This small project randomly changes a quote by Diego Armando Maradona. It is a tribute to the greatest soccer player of all time.
 
-###Live Demo
+### Live Demo
 https://maurosgomez.github.io/Maradona-Quotes/
 
-###Built with
+### Built with
 - Javascript
 - HTML
 - CSS
 
-###Contributing
+### Contributing
 Contributions are always welcome!
 
-###Author 
+### Author 
 Github: @maurosgomez
 
 
