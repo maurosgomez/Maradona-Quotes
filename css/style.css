@@ -78,6 +78,14 @@
     right: 0;
 }    
 
+/* GATOOO! */
+
+.btn:hover {
+    background-color: white;
+    color: #1e90ff;
+    transition-delay: 110ms;
+}
+
 img {
     width: 20%;
     max-width: none;
