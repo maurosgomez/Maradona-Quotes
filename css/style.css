@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap|Castoro&display=swap');
+
+.container {
+    margin: 1em;
+    border: solid 0.5px #0a0a0a;
+    position: relative;
+}
+
+.box1, .box3 {
+    padding: 6em;
+    background-color: #add8e6;
+}
+
+.box2 {
+    padding: 6em;
+    background-color: #ffffff;
+}
+
+.text_container {
+    margin: auto;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 14em;
+    bottom: 15em;
+    max-width: 500px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    color: #0a0a0a;
+    font-size: 30px;
+    font-family: 'Castopo', serif;
+    text-shadow: 3px 3px 3px #e6e6e6;
+    top: 14em;
+    bottom: 15em;
+}
+
+.diego {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 28.5em;
+    bottom: 20em;
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+    max-width: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+}
+
+.btn {
+    height: 35px; 
+    width: 130px;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #1e90ff;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}    
+
+img {
+    width: 20%;
+    max-width: none;
+    min-width: none;
+    position: absolute;
+    left: 5em;
+    right: 0;
+    top: 9em;
+    bottom: 0;
+    overflow: auto;
+}
+
+@media (max-width: 600px) {
+
+    .text_container {
+        max-width: 300px;
+    }
+
+    .quote {
+        font-size: 26px;
+    }
+    
+    .diego {
+        max-width: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 29em;
+    }    
+}
+
+@media (max-width: 1200px) {
+
+    img {
+        display: none;
+    }
+}
