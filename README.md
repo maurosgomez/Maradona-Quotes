@@ -15,6 +15,9 @@ https://maurosgomez.github.io/Maradona-Quotes/
 ### Contributing
 Contributions are always welcome!
 
+### Contributors
+[![](https://github.com/10035.png?size=50)](https://github.com/10035)
+
 ### Author 
 Github: @maurosgomez
 
